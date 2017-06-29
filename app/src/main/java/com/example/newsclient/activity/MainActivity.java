@@ -14,11 +14,11 @@ import android.view.MenuItem;
 import android.widget.RadioGroup;
 
 import com.example.newsclient.R;
-import com.example.newsclient.fragment.MainFragment1;
-import com.example.newsclient.fragment.MainFragment2;
-import com.example.newsclient.fragment.MainFragment3;
-import com.example.newsclient.fragment.MainFragment4;
-import com.example.newsclient.fragment.MainFragment5;
+import com.example.newsclient.MainFragment1;
+import com.example.newsclient.MainFragment2;
+import com.example.newsclient.MainFragment3;
+import com.example.newsclient.MainFragment4;
+import com.example.newsclient.MainFragment5;
 
 import java.util.ArrayList;
 import java.util.List;
